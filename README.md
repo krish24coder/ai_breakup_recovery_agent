@@ -180,7 +180,7 @@ Breakup-Recovery-Agent/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Breakup-Recovery-Agent.git
+git clone https://github.com/krish24coder/Breakup-Recovery-Agent.git
 ```
 
 Move into the project
