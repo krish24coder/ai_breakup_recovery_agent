@@ -418,9 +418,9 @@ BCA (AI & Data Science)
 
 SAGE University, Bhopal
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/krish24coder
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: [https://www.linkedin.com/in/kushagra-sharma-5286433a8](https://www.linkedin.com/in/kushagra-sharma-5286433a8/)
 
 ---
 
